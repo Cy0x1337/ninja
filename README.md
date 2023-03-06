@@ -12,7 +12,7 @@
   <img src="https://b.top4top.io/p_2620fnslu1.png" alt="example">
 </div>
 
-<p align="center">ninja_Cy0x is a python script that automatically performs recon on a </br>given URL. It combines the outputs of other known tools into a single one.</p>
+<p align="center">ninja_Cy0x.1337 is a python script that automatically performs recon on a </br>given URL. It combines the outputs of other known tools into a single one.</p>
 
 ****
 
@@ -23,6 +23,7 @@
   ```bash
   
   git clone https://github.com/Cy0x1337/ninja.git
+ 
   
   ```
   2. Get into the project' folder:</br>
